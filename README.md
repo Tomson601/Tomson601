@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tomson601
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning python and .NET.
+- 👋 Hi, I’m Tomasz Jarko.
+- 👀 I’m interested in electronics, computer building and programming.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Tomaszek69 ---> Messenger.
 
 <!---
 Tomson601/Tomson601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
