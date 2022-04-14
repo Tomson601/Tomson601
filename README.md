@@ -1,4 +1,5 @@
-Hello, my name is Tomasz Jarko. I am 17 years old technical school student. 
+Hello, my name is Tomasz Jarko. 
+I am 17 years old technical school student. 
 I'm interested in electronic, computer building and programming.
 I'm currently interested in backend development.
 I am currently developing Django framework skills.
