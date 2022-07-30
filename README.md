@@ -1,12 +1,8 @@
-My name is Tomasz.  
 I am 18 years old technical school ICT student.  
 I developed basic skills in electronics, computer building and networks (LAN).  
 I'm currently developing my skills in backend development, especially Django framework. 
 
-This is my recently made website:  
-https://universities-django-core.herokuapp.com/home/
-
-Feel free to DM me on LinkedIn:  
+Feel free to contact me on LinkedIn:  
 https://www.linkedin.com/in/tomasz-jarko-58509b1b5
 
 <!---
