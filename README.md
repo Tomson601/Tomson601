@@ -1,4 +1,4 @@
-I am 18 years old technical school ICT student and backend developer.
+I am 18 years old technical school ICT student and backend developer.  
 I developed basic skills in electronics, computer building and networking.  
 I'm currently developing my skills in backend development, especially Django framework. 
 
