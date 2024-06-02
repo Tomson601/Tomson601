@@ -1,6 +1,6 @@
-I am 20 years old technical school ICT student and backend developer.  
+I am 20 years old ICT technician and backend developer.  
 I developed basic skills in electronics, computer building and networking.  
-I'm currently developing my skills in backend development, especially Django framework. 
+I'm currently developing my skills in backend development,django and django-ninja framework.
 
 Feel free to contact me on LinkedIn:  
 https://www.linkedin.com/in/tomasz-jarko-58509b1b5
